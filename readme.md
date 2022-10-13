@@ -21,3 +21,9 @@ Tailwind Helper
 - Tailwindhelper assists you in styling with tailwindcss. You can visualize tailwind settings, converts your values into tailwind classes, figure out the closest colors with hex values and more.
 
 https://www.tailwindhelper.com/
+
+Openbase
+
+- This website is contain a lot of Package Categories for dev
+
+https://openbase.com/categories/js
