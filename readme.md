@@ -17,6 +17,7 @@ Create rotate for reactjs
 https://giladk.github.io/react-scroll-rotate/
 
 Tailwind Helper
+![My animated logo](Images/Taiwindhelper.png)
 
 - Tailwindhelper assists you in styling with tailwindcss. You can visualize tailwind settings, converts your values into tailwind classes, figure out the closest colors with hex values and more.
 
