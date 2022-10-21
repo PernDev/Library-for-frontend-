@@ -20,6 +20,14 @@ Create rotate for reactjs
 
 https://giladk.github.io/react-scroll-rotate/
 
+- This websit is beautiful tailwind 
+
+https://www.hyperui.dev/
+
+- This websit is contain class javaScript and class tailwind
+
+https://www.vechaiui.com/dialog
+
 Tailwind Helper
 ![My animated logo](Images/Taiwindhelper.png)
 
