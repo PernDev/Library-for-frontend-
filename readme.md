@@ -28,6 +28,10 @@ https://www.hyperui.dev/
 
 https://www.vechaiui.com/dialog
 
+- Typescript component vechaiUI 
+
+https://github.com/vechai/vechaiui
+
 Tailwind Helper
 ![My animated logo](Images/Taiwindhelper.png)
 
