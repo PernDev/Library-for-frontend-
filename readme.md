@@ -45,6 +45,9 @@ Openbase
 
 https://openbase.com/categories/js
 
+- Component for reactjs "www.creative-tim.com"
+https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/react/modals/regular
+
 <h1 align="left">Hi 👋! I'm Pern</h1>
 
 ###
