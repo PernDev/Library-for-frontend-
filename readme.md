@@ -24,6 +24,7 @@ https://giladk.github.io/react-scroll-rotate/
 
 https://www.hyperui.dev/
 
+
 - This websit is contain class javaScript and class tailwind
 
 https://www.vechaiui.com/dialog
@@ -99,3 +100,13 @@ https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/rea
 ###
 
 Profile Readme Generator
+
+Python validate https://develop.sentry.dev/serializers/
+
+Tailwind animation 
+
+https://blog.canopas.com/tailwind-css-custom-animations-b041a1310aab
+
+React before after slider component
+
+https://www.npmjs.com/package/react-before-after-slider-component
