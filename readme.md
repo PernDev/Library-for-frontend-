@@ -110,3 +110,20 @@ https://blog.canopas.com/tailwind-css-custom-animations-b041a1310aab
 React before after slider component
 
 https://www.npmjs.com/package/react-before-after-slider-component
+
+Reatjs hook form
+
+https://codesandbox.io/s/react-hook-form-usefieldarray-nested-arrays-x7btr?from-embed
+
+https://www.tailwind-kit.com/components/feature
+
+https://tailgrids.com/components/toggle-switch
+
+https://tailwind-elements.com/docs/standard/components/images/
+
+Tailwind Form HTML
+https://ordinarycoders.com/blog/article/tailwindcss-custom-forms
+
+
+Ebook 
+https://www.pdfdrive.com
