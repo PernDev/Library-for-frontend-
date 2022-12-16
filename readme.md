@@ -127,3 +127,6 @@ https://ordinarycoders.com/blog/article/tailwindcss-custom-forms
 
 Ebook 
 https://www.pdfdrive.com
+
+Tailwind-elements
+https://tailwind-elements.com/docs/standard/components/gallery/
