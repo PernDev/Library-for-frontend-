@@ -20,16 +20,15 @@ Create rotate for reactjs
 
 https://giladk.github.io/react-scroll-rotate/
 
-- This websit is beautiful tailwind 
+- This websit is beautiful tailwind
 
 https://www.hyperui.dev/
-
 
 - This websit is contain class javaScript and class tailwind
 
 https://www.vechaiui.com/dialog
 
-- Typescript component vechaiUI 
+- Typescript component vechaiUI
 
 https://github.com/vechai/vechaiui
 
@@ -47,7 +46,7 @@ Openbase
 https://openbase.com/categories/js
 
 - Component for reactjs "www.creative-tim.com"
-https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/react/modals/regular
+  https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/react/modals/regular
 
 <h1 align="left">Hi 👋! I'm Pern</h1>
 
@@ -103,7 +102,7 @@ Profile Readme Generator
 
 Python validate https://develop.sentry.dev/serializers/
 
-Tailwind animation 
+Tailwind animation
 
 https://blog.canopas.com/tailwind-css-custom-animations-b041a1310aab
 
@@ -124,9 +123,15 @@ https://tailwind-elements.com/docs/standard/components/images/
 Tailwind Form HTML
 https://ordinarycoders.com/blog/article/tailwindcss-custom-forms
 
-
-Ebook 
+Ebook
 https://www.pdfdrive.com
 
 Tailwind-elements
 https://tailwind-elements.com/docs/standard/components/gallery/
+
+SVG resource  
+https://undraw.co/search
+![SVG resource ](Images/undraw.png)
+
+Animation library
+https://www.framer.com/docs/examples/
