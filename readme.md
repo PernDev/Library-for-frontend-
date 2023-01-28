@@ -135,3 +135,6 @@ https://undraw.co/search
 
 Animation library
 https://www.framer.com/docs/examples/
+
+Tailwind css component
+https://preline.co/docs/devices.html
