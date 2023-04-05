@@ -138,3 +138,6 @@ https://www.framer.com/docs/examples/
 
 Tailwind css component
 https://preline.co/docs/devices.html
+
+Button Tailwind
+https://devdojo.com/tailwindcss/buttons
